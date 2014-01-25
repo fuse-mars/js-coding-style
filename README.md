@@ -1,4 +1,3 @@
-JavaScript Setup
-========
+# JavaScript Coding Style
 
-My code conventions and setup of configurations for JavaScript.
+My coding style and setup of configurations for JavaScript.
