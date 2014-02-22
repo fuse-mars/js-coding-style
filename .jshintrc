@@ -15,6 +15,7 @@
   "indent": 2,
   "jquery": true,
   "latedef": true,
+  "laxcomma": true,
   "maxcomplexity": 10,
   "maxlen": 80,
   "maxstatements": 20,
