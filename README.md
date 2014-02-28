@@ -1,4 +1,4 @@
-# <img src="js-coding-style.png" alt="JavaScript Coding Style" border="0" />
+# ![JavaScript Coding Style](js-coding-style.png)
 
 My *coding style* and *setup* of configurations for **JavaScript**.
 
