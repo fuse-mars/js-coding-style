@@ -64,7 +64,6 @@ module.exports = {
 		'spaced-comment': 'warn',
 		'prefer-const': 'warn',
 		'prefer-arrow-callback': 'warn',
-		'prefer-destructuring': 'warn',
 		'prefer-rest-params': 'warn',
 		'prefer-spread': 'warn',
 		'prefer-template': 'warn',
