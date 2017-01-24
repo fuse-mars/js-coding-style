@@ -1,4 +1,3 @@
-# ![JavaScript Coding Style](js-coding-style.png)
+# JS Coding Style
 
-My *coding style* and *setup* of configurations for **JavaScript**.
-
+My **JavaScript** *programming style* with [ESLint Rules](.eslintrc.js).
