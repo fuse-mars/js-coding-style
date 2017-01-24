@@ -11,7 +11,6 @@ module.exports = {
 		sourceType: "module"
 	},
 	rules: {
-		'no-console': 'off',
 		'semi': 'error',
 		'quotes': ['warn', 'single'],
 		'camelcase': 'error',
@@ -22,11 +21,13 @@ module.exports = {
 		'consistent-this': 'error',
 		'default-case': 'error',
 		'guard-for-in': 'warn',
+		'no-var': 'warn',
 		'no-eval': 'error',
 		'no-with': 'error',
 		'no-void': 'error',
 		'no-alert': 'warn',
 		'no-proto': 'warn',
+		'no-console': 'off',
 		'no-bitwise': 'warn',
 		'no-continue': 'warn',
 		'no-loop-func': 'error',
