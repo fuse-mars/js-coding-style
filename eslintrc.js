@@ -33,8 +33,6 @@ module.exports = {
 		'max-params': ['warn', 3],
 		'new-cap': 'error',
 		'new-parens': 'warn',
-		'newline-after-var': 'warn',
-		'newline-before-return': 'warn',
 		'no-alert': 'warn',
 		'no-array-constructor': 'warn',
 		'no-bitwise': 'warn',
