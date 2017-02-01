@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-	extends: "eslint:recommended",
+	extends: 'eslint:recommended',
 	env: {
 		browser: true,
 		node: true
 	},
 	parserOptions: {
 		ecmaVersion: 6,
-		sourceType: "module"
+		sourceType: 'module'
 	},
 	rules: {
 		'array-bracket-spacing': 'warn',
