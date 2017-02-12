@@ -64,7 +64,6 @@ module.exports = {
 		'no-void': 'error',
 		'no-with': 'error',
 		'prefer-arrow-callback': 'warn',
-		'prefer-const': 'warn',
 		'prefer-rest-params': 'warn',
 		'prefer-spread': 'warn',
 		'prefer-template': 'warn',
