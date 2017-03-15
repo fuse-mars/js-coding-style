@@ -1,6 +1,6 @@
 'use strict';
 
-module.exports = {
+export default {
 	extends: 'eslint:recommended',
 	env: {
 		browser: true,
