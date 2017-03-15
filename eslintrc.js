@@ -19,12 +19,11 @@ module.exports = {
 		'consistent-this': 'error',
 		'curly': 'off',
 		'default-case': 'error',
-		'func-names': 'warn',
 		'guard-for-in': 'warn',
 		'linebreak-style': ['error', 'unix'],
 		'max-depth': ['warn', 3],
 		'max-len': ['warn', {
-			code: 90,
+			code: 80,
 			tabWidth: 2,
 			ignoreUrls: true
 		}],
